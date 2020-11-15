@@ -28,4 +28,4 @@
 
 ### My performance 💤
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=backtojuan&theme=buefy&show_icons=true" alt="backtojuan's Github Stats" width="50%">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backtojuan&layout=compact" alt="backtojuan's Github Stats" width="30%">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backtojuan&layout=compact" alt="backtojuan's Github Stats" width="45%">
