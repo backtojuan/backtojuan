@@ -10,7 +10,7 @@
 - 🔭 I’m currently Studying from home
 - 👯 I’m looking to collaborate other developers 
 - 💬 Ask me about anything, I like to be helpful
-- 👅 I love languages. My native language is spanish, my most prefered language is english, but also, I can speak a little bit of french and a little bit of german!
+- 👅 I love languages. My native language is spanish, my most preferred language is english, but also, I can speak a little bit of french and a little bit of german!
 - 📫 How to reach me: juanchouni@hotmail.com
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I started uni when I was 15 years old 😱
