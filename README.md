@@ -14,9 +14,6 @@
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I started my degree when I was just 15 years old 😱
 
-<br>
-<a href="https://www.linkedin.com/in/juanjos%C3%A9valenciajaramillo///"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-
 ### My performance 💤
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=backtojuan&theme=buefy&show_icons=true" alt="backtojuan's Github Stats" width="50%">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backtojuan&layout=compact" alt="backtojuan's Github Stats" width="45%">
